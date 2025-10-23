@@ -11,11 +11,11 @@ Evento Evaluativo 3 / Despliegue en IIS y Nube Azure
 
 ## Enlaces Videos
 
-[Video Primer Punto](test.com)
+[Video Explicacion](https://drive.google.com/file/d/19X7N8V0kAYWTLVuR9iJDIcAbGkfnVBGm/view?usp=sharing)
 
-[Video Segundo Punto](test.com)
+[Sitio Desplegado En Azure](https://blue-sky-06edd5910.3.azurestaticapps.net/)
 
-## Evidencias
+## Evidencias IIS
 
 ### Creacion App Pool 
 ![Imagen](./evidencias/creacion_pool.png)
@@ -28,6 +28,17 @@ Evento Evaluativo 3 / Despliegue en IIS y Nube Azure
 
 ### Health
 ![Imagen](./evidencias/health.png)
+
+## Evidencias Azure
+
+> [!NOTE]
+> Publicamos como Static Web App, por lo que Https Only esta activado por defecto.
+
+### Variables Entorno
+![Imagen](./evidencias/variable_entorno.png)
+
+### Sitio Desplegado
+![Imagen](./evidencias/despliegue_azure.png)
 
 ## Adicionales
 
